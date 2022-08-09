@@ -5,8 +5,16 @@
     <title></title>
 </head>
 <body>
-<p id="hello HTML">Hello HTML</p>
-<button type="button" onclick="myScript()">Clickme</button>
-<script src="myScript.js"></script>
+<p id="mTag">Hello HTML</p>
+<button>Click Me</button>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function (){
+        $("button").click(function (){
+            $("p")[0].innerHTML="Hello Lâm";
+            console.log("p")[0]
+        });
+    });
+</script>
 </body>
 </html>
