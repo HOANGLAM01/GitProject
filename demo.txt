@@ -1,0 +1,2 @@
+Truy cập vào James đọc bài đọc, tham khảo video lý thuyết (nếu có) và hoàn thành các bài tập có GIT.
+Tạo 3 Folder con, mỗi folder là dư án đẩy lên 3 repo trên github (Luyện tập ở mỗi dự án là đẩy code lên 3 lần) Sau khi xong thì nộp slack như hướng dẫn.
